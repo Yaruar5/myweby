@@ -1,2 +1,4 @@
 Gomawo, anion
-redis
+
+cambiando nota
+Con base de datos tengo pesadilla
